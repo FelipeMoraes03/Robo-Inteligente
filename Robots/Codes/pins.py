@@ -1,0 +1,14 @@
+
+RENA = 12
+RIN1 = 26
+RIN2 = 5
+
+LENA = 13
+LIN1 = 6
+LIN2 = 16
+
+RENCA = 17
+RENCB = 27
+LENCA = 22
+LENCB = 23
+
